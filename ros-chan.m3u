@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1, Первый канал
+http://45.94.219.9:8081/stream/test36/hls/playlist.m3u8
+#EXTINF:-1, Россия 1
+https://livehlsvgtrkrf.cdnvideo.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, НТВ
+http://176.74.80.162:8099/NTV/index.m3u8
+#EXTINF:-1, Пятый канал
+https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+#EXTINF:-1, Карусель
+https://livehlsvgtrkrf.cdnvideo.ru/hls/karusel/playlist_3.m3u8
+#EXTINF:-1, Общественное телевидение России
+https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+#EXTINF:-1, Россия Культура
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201&ext=.m3u8
+#EXTINF:-1, Россия 24
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21&ext=.m3u8
+#EXTINF:-1, ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1, РЕН ТВ
+http://176.74.80.162:8099/RenTV/index.m3u8
+#EXTINF:-1, Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1, СТС
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1, Домашний
+https://livetv.mylifeisgood.ml/channels/domashnii.m3u8
+#EXTINF:-1, ТВ-3
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1, Пятница
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
+#EXTINF:-1, Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1, Мир
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ТНТ
+http://176.74.80.162:8099/TNT/index.m3u8
+#EXTINF:-1, Муз-ТВ
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+#EXTINF:-1, Че
+https://livetv.mylifeisgood.ml/channels/che.m3u8
+#EXTINF:-1, Солнце
+https://livetv.mylifeisgood.ml/channels/disney.m3u8
+#EXTINF:-1, Ю
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 2х2
+https://livetv.mylifeisgood.ml/channels/2x2.m3u8
+#EXTINF:-1, ТНТ4
+https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
+#EXTINF:-1, Продвижение
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1, 360
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1, 360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1, РБК
+http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
+#EXTINF:-1, Телеканал Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+#EXTINF:-1, Соловьев live
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
